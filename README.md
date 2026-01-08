@@ -1,2 +1,2 @@
 # SkillQube
-An end to end course selling app.
+An end to end course selling and purchasing app.
