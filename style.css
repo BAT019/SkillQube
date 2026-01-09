@@ -1,0 +1,108 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.body {
+    background-color: rgb(10, 13, 32);
+}
+
+.taskbar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    gap: 200px;
+    height: 90px;
+    background-color: rgb(5, 8, 19);
+}
+
+.heading {
+    color: white;
+    margin: 0px 30px;
+}
+
+.midsection {
+    background-color: rgb(40, 40, 40);
+    height: 50px;
+    width: 400px;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    border: 1px solid rgb(63, 63, 63);
+}
+
+.buttons {
+    display: flex;
+    gap: 30px;
+
+}
+
+.sect1 {
+    color: white;
+    padding: 180px;
+}
+
+.mainbtn {
+    width: 180px;
+    height: 40px;
+    border: none;
+    border-radius: 30px;
+    background-color: rgb(0, 5, 142);
+    font-size: 15px;
+}
+
+.maintxt {
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.listflex {
+    margin: 20px
+}
+
+.sect2 {
+    margin-bottom: 200px;
+    gap: 300px;
+    background-color: rgb(16, 16, 44);
+    width: 90vw;
+    margin-left: 5px;
+    padding: 50px;
+}
+
+.tutors {
+    margin: 20px;
+    margin-bottom: 50px;
+}
+
+.sect3 {
+    gap: 50px;
+    margin: 0px 15px;
+    margin-bottom: 100px;
+}
+
+.creatorcard {
+    border-radius: 20px;
+    height: 300px;
+    width: 220px;
+    background-color: rgb(7, 8, 32);
+}
+
+.profileimg {
+    height: 200px;
+    width: 200px;
+}
+
+
+
+
+
+
+
+.footer {
+    height: 300px;
+    background-color: rgb(7, 8, 32);
+    gap: 100px;
+}
